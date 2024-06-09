@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Height,Weight,Income,Education,MaritalStatus
+1,John,30,Male,175,70,50000,Bachelor,Single
+2,Jane,25,Female,165,60,60000,Master,Married
+3,Bob,40,Male,180,80,70000,PhD,Married
+4,Alice,35,Female,160,55,55000,Bachelor,Single
+5,Charlie,45,Male,185,90,80000,High School,Married
+6,Emily,28,Female,170,65,62000,Master,Single
+7,David,33,Male,178,75,55000,Bachelor,Married
+8,Sophia,29,Female,168,62,61000,PhD,Single
+9,Michael,42,Male,182,85,75000,Master,Married
+10,Olivia,27,Female,163,58,58000,Bachelor,Single
+11,William,38,Male,178,80,70000,Bachelor,Married
+12,Emma,32,Female,167,63,62000,PhD,Single
+13,Alexander,31,Male,176,72,65000,Master,Married
+14,Isabella,26,Female,169,64,59000,High School,Single
+15,James,34,Male,180,78,72000,PhD,Married
+16,Sophia,30,Female,166,61,63000,Bachelor,Single
+17,Benjamin,37,Male,177,76,69000,Master,Married
+18,Mia,29,Female,171,66,64000,High School,Single
+19,Mason,39,Male,183,82,77000,PhD,Married
+20,Amelia,24,Female,164,59,57000,Bachelor,Single
+21,Charlotte,36,Female,172,68,66000,Master,Married
+22,Harper,23,Female,162,57,56000,Bachelor,Single
+23,Ethan,41,Male,184,88,78000,PhD,Married
+24,Abigail,28,Female,165,60,59000,High School,Single
+25,Elijah,35,Male,179,77,73000,Master,Married
+26,Ava,31,Female,168,63,62000,PhD,Single
+27,Grayson,40,Male,181,83,76000,Master,Married
+28,Liam,26,Male,174,71,66000,Bachelor,Single
+29,Emily,33,Female,170,65,64000,PhD,Married
+30,Lucas,27,Male,175,72,67000,High School,Single
+31,Scarlett,34,Female,169,64,63000,Master,Married
+32,Mason,29,Male,178,75,71000,Bachelor,Single
+33,Madison,38,Female,171,66,68000,High School,Married
+34,Alexander,32,Male,177,73,74000,Master,Single
+35,Grace,25,Female,166,61,61000,PhD,Married
+36,Logan,43,Male,185,90,79000,Master,Married
+37,Luna,30,Female,167,62,62000,Bachelor,Single
+38,Carter,28,Male,176,72,67000,High School,Married
+39,Chloe,31,Female,168,63,63000,Master,Single
+40,Matthew,39,Male,180,83,77000,Bachelor,Married
+41,Lily,26,Female,165,60,60000,PhD,Single
+42,Nova,35,Female,169,64,64000,High School,Married
+43,Elijah,33,Male,179,77,75000,PhD,Married
+44,Ellie,24,Female,164,59,57000,Bachelor,Single
+45,Jack,42,Male,183,82,78000,Master,Married
+46,Zoe,29,Female,171,66,65000,High School,Single
+47,William,36,Male,178,78,73000,PhD,Married
+48,Penelope,27,Female,166,61,62000,Bachelor,Single
+49,Lincoln,40,Male,181,83,76000,Master,Married
+50,Sophia,31,Female,168,63,63000,High School,Single
